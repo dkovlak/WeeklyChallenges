@@ -9,3 +9,4 @@ namespace ChallengesWithTestsMark8
         public Business ParentCompany { get; set; }
     }
 }
+        
